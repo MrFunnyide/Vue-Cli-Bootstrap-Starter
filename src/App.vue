@@ -4,13 +4,15 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#aboutUs">About Us</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#story">Perjalanan Hidup</a>
             </li>
@@ -33,7 +35,15 @@
     </header>
 
     <!-- About -->
-    <section id="about">
+    <section id="aboutUs">
+      <div class="container">
+        <h2 class="section-heading text-uppercase">ABOUT US</h2><br>
+        <p>Perkenalkan nama saya Aji Bayu Permadi, saya lahir di jawa tengah pada tanggal 03-oktober-2002 di jawa tengah, dan sekarang saya berkuliah di salah satu universitas di RIAU yakni Universitas Islam Negeri Sultan Syarif Kasim Riau, </p>
+      </div>
+    </section>
+
+    <!-- Perjalanan diri -->
+    <section id="story">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">

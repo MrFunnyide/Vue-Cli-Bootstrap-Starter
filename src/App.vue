@@ -28,7 +28,6 @@
         <div class="intro-text">
           <div class="intro-lead-in">Welcome to My Portofolio Website</div>
           <div class="intro-heading text-uppercase">Aji Bayu Permadi</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#story">Tell Me More</a>
         </div>
       </div>
     </header>
@@ -79,7 +78,8 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2017-2020</h4>MAN 1 SIAK</h4>
+                    <h4>2017-2020</h4>
+                    <h4>MAN 1 SIAK</h4>
                   </div>
                   <div class="timeline-body">
                     <p class="text-muted">Masuk dan lulus dari man 1 siak dan tidak berperingkat</p>

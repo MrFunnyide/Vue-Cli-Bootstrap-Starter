@@ -55,9 +55,6 @@
           <div class="col-lg-12">
             <ul class="timeline">
               <li>
-                <div class="timeline-image">
-                  <!-- <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt=""> -->
-                </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2008-2014</h4>
@@ -69,9 +66,6 @@
                 </div>
               </li>
               <li class="timeline-inverted">
-                <div class="timeline-image">
-                  <!-- <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt=""> -->
-                </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2014-2017</h4>
@@ -83,23 +77,14 @@
                 </div>
               </li>
               <li>
-                <div class="timeline-image">
-                  <!-- <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt=""> -->
-                </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2017-2020</h4>
                     <h4>MAN 1 SIAK</h4>
                   </div>
-                  <div class="timeline-body">
-                    <p class="text-muted">Masuk dan lulus dari man 1 siak dan tidak berperingkat</p>
-                  </div>
                 </div>
               </li>
               <li class="timeline-inverted">
-                <div class="timeline-image">
-                  <!-- <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt=""> -->
-                </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>2020</h4>
@@ -108,13 +93,6 @@
                   <div class="timeline-body">
                     <p class="text-muted">2020 kuliah dan masuk di uin suska riau pada jurusan Teknik Informatika Fakultas Sains dan Teknologi dan sekarang sudah berada di semeter 4</p>
                   </div>
-                </div>
-              </li>
-              <li class="timeline-inverted">
-                <div class="timeline-image">
-                  <h4>Be Part
-                    <br>Of Our
-                    <br>Story!</h4>
                 </div>
               </li>
             </ul>
